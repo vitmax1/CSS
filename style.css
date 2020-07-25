@@ -51,7 +51,7 @@ section .book::after {
 	transform-origin: center;
 	background: url(back.jpg);
 	background-position: center;
-	transform: rotateY(180deg) translateZ(70px);
+	transform: rotateY(180deg) translateZ(60px);
 }
 section .book img {
 	position: absolute;
